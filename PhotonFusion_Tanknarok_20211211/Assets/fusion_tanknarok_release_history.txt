@@ -1,0 +1,53 @@
+# 0.7.1
+
+** Changes **
+
+- Updated to Fusion 319
+- Fix WorldOwner so it's not tied to playerId==0
+
+# 0.7.0
+
+## Build 6 (Sep 28, 2021)
+
+**Changes**
+
+- Tank prefab to destroy when Authority leaves (in Shared Mode)
+- OnAllPlayersReady() will close and hide the room/session
+
+**Removed**
+
+- Unuseb (but large) asset. Not referenced or used
+
+## Build 5 (Sep 14, 2021)
+
+**Changes**
+
+- Spacing of lines minimally
+
+**Removed**
+
+- Folders "Bin" and "bin" by adding them to .gitignore
+
+**Bug Fixes**
+
+- Fixed: Two MissingReferenceExceptions when exiting play mode
+
+## Build 4 (Sep 02, 2021)
+
+**What's New**
+
+- Supported platforms to Readme
+- Copyright and Email to readme
+
+**Changes**
+
+- Name of readme
+- File format for audio from mp3 to wav. Keeping .meta the same (just renamed)
+- Glitch effect no longer has the attribute ExecuteInEditMode
+
+## Build 3 (Aug 30, 2021)
+
+**What's New**
+
+- Readme
+
